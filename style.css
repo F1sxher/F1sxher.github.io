@@ -16,9 +16,13 @@ div {
   font-weight: 500;
 }
 
-.boxed {
+.box {
   font-size: 20px;
   font-weight: 350;
   color: white;
+  width: 350px;
+  padding: 5px;
+  background-color: rgb(60,60,60);
+  margin: 0;
   border: 10px solid rgb(60,60,60);
 }
