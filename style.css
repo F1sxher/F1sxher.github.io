@@ -11,13 +11,13 @@ h2 {
   color: white;
 }
 
-div {
+#subtitle {
   color: white;
   font-size: 35px;
   font-weight: 500;
 }
 
-.box {
+#box {
   font-size: 20px;
   font-weight: 350;
   color: white;
