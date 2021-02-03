@@ -7,15 +7,6 @@ var typewriter = new Typewriter(app, {
 
 typewriter
   .pauseFor(150)
-  .typeString('Roblox Builder')
-  .pauseFor(1500)
-  .deleteChars(14)
-  .typeString('Roblox Scripter')
-  .pauseFor(1500)
-  .deleteChars(15)
-  .typeString('Node.js Cder')
-  .pauseFor(350)
-  .deleteChars(3)
-  .typeString('oder')
+  .typeString('I\'m Fisher, A simple human that scripts and codes in roblox and node.js. You can check out some of my profiles below!')
   .pauseFor(1500)
   .start();
