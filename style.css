@@ -1,10 +1,19 @@
 body {
-  font-family: 'Segoe UI';
   text-align: center;
+}
+
+h1 {
+  font-weight: 8650;
 }
 
 h2 {
   color: white;
+}
+
+div {
+  color: white;
+  font-size: 35px;
+  font-weight: 500;
 }
 
 .boxed {
