@@ -6,4 +6,10 @@ body {
 
 h2 {
   background-color: rgb(60,60,60);
+  font-color: white;
+}
+
+p {
+  background-color: rgb(60,60,60);
+  font-color: white;
 }
