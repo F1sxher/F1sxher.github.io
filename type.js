@@ -6,7 +6,7 @@ var typewriter = new Typewriter(app, {
 });
 
 typewriter
-  .pauseFor(1)
+  .pauseFor(150)
   .typeString('Roblox Builder')
   .pauseFor(1500)
   .deleteChars(14)
