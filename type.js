@@ -19,5 +19,3 @@ typewriter
   .typeString('oder')
   .pauseFor(1500)
   .start();
-
-confirm("Ieuan Ieuan Ieuan Ieuan Ieuan Ieuan Ieuan Ieuan Ieuan Ieuan yes?")
